@@ -1,1 +1,2 @@
 # Sentiment-Analysis
+This project aims to build a sentiment analysis system using the IMDb movie reviews dataset from Kaggle. The primary objective is to classify movie reviews as positive or negative using various machine learning models. Different machine learning models like SVM, Decision Tree, Naive Bayes, Logistic Regression are trained and evaluated based on acccuracy and other evaluation metric
