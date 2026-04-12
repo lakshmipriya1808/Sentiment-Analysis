@@ -66,6 +66,14 @@ Trained multiple machine learning models:
 
 ---
 
+## 📊 Key Insights
+
+- The dataset showed a higher proportion of positive reviews, indicating overall favorable sentiment trends  
+- Text analysis revealed distinct word patterns for positive and negative sentiments  
+- Class imbalance significantly affected model performance, which was improved after applying undersampling  
+- SVM achieved the highest accuracy (94%), making it the most suitable model for this task  
+- This approach can be applied to analyze customer feedback and improve decision-making
+
 ## 📂 Dataset
 IMDB Movie Reviews Dataset  
 (Dataset not included due to size. Can be downloaded from Kaggle)
