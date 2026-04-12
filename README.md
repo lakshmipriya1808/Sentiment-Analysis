@@ -74,6 +74,8 @@ Trained multiple machine learning models:
 - SVM achieved the highest accuracy (94%), making it the most suitable model for this task  
 - This approach can be applied to analyze customer feedback and improve decision-making
 
+---
+
 ## 📂 Dataset
 IMDB Movie Reviews Dataset  
 (Dataset not included due to size. Can be downloaded from Kaggle)
