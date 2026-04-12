@@ -33,6 +33,11 @@ It explores how text data can be preprocessed, transformed, and used to train di
   - All reviews
   - Positive reviews
   - Negative reviews
+  Example -
+  **Positive Reviews** - <img width="790" height="425" alt="image" src="https://github.com/user-attachments/assets/3aeead90-b064-4873-86bf-f489573f089d" />
+  **Negative Reviews** - <img width="790" height="425" alt="image" src="https://github.com/user-attachments/assets/a16c23a9-9ab5-4570-b142-d1050fb3f521" />
+
+
 
 ### 4. Feature Extraction
 - Used TF-IDF Vectorizer to convert text into numerical features
@@ -46,7 +51,7 @@ Trained multiple machine learning models:
 
 ---
 
-## 📈 Results
+## 📈 Results & Evaluation
 
 | Model                | Accuracy |
 |---------------------|---------|
@@ -57,12 +62,9 @@ Trained multiple machine learning models:
 
 - SVM performed the best among all models  
 - Compared model performance on both balanced and imbalanced datasets  
-
----
-
-## 📊 Evaluation
-- Accuracy score
 - Confusion Matrix
+  <img width="532" height="449" alt="image" src="https://github.com/user-attachments/assets/5f4146ad-00f9-474c-ab80-58d8c1f8c9e8" />
+
 
 ---
 
